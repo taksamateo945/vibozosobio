@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap : https://vibozosobio.pages.dev/sitemap.xml
